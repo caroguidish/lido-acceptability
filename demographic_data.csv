@@ -1,0 +1,19 @@
+﻿Participant ID ,Age ,Able to read and understand English ,Full time student ,Live in Oxford Ring Road ,Sex,Gender same as registered at birth ,Weekday average hours spent outdoors ,Weekend average hours spent outdoors ,Usual mode of travel to work  
+P01,20,Yes,Yes,Yes,M,Yes,2,2,Bicycle
+P02,21,Yes,Yes,Yes,F,Yes,1,2,Bicycle
+P03,18,Yes,Yes,Yes,M,Yes,3,4,On foot
+P04,19,Yes,Yes,Yes,M,Yes,1,1,Bicycle
+P05,19,Yes,Yes,Yes,F,Yes,4,6,On foot
+P06,21,Yes,Yes,Yes,F,Yes,2,2,On foot
+P07,21,Yes,Yes,Yes,M,Yes,2,3,On foot
+P08,21,Yes,Yes,Yes,F,Yes,2,2,Bicycle
+P09,20,Yes,Yes,Yes,F,No (non-binary),1,0,On foot
+P12,19,Yes,Yes,Yes,F,Yes,3,4,Mainly work from home
+P13,21,Yes,Yes,Yes,M,Yes,2,2,Bicycle
+P15,19,Yes,Yes,Yes,F,Yes,2,2,On foot
+P16,18,Yes,Yes,Yes,M,Yes,1,1,On foot
+P17,21,Yes,Yes,Yes,F,Yes,2,3,Bicycle
+P23,24,Yes,Yes,Yes,M,Yes,1,2,Bicycle
+P25,18,Yes,Yes,Yes,M,Yes,6,8,On foot
+P29,19,Yes,Yes,Yes,F,Yes,2,2,On foot
+P35,23,Yes,Yes,Yes,M,Yes,1,2,Bicycle
